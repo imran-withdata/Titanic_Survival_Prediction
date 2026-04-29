@@ -1,0 +1,6 @@
+Google colab
+Numpy lybery
+Pandas library
+Matplotlib.pyplot
+Seaborn
+Titanic Dataset
